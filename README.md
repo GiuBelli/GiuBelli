@@ -1,4 +1,4 @@
-# 👋 Hello
+# Hello 🙋🏻‍♀️
 My name is Giuli, I am from Córdoba Argentina and I am Data Analyst
 
 - I use GitHub to explore and study new concepts and to try libraries
