@@ -1,9 +1,9 @@
 # Hello 🙋🏻‍♀️
-My name is Giuli, I am from Córdoba Argentina and I am Data Analyst
+My name is Giuli, I am a Data Analyst from Córdoba Argentina 
 
-- I use GitHub to explore and study new concepts and to try libraries
-- I am interested in learning statistics for Data Analysis using Python
-- I love some piece of quality data
+- I use GitHub to explore and study new concepts and to try out libraries
+- I'm interested in learning statistics for Data Analysis using Python
+- I like quality data
 - I love running
 
 # How to reach me
